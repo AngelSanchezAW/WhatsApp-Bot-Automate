@@ -1,6 +1,8 @@
 # WhatsApp Bot Automate
 ## Automatización de Mensajes en WhatsApp con Selenium
 
+<img src="https://aseazul.com/wp-content/uploads/2023/11/Bot-creado-con-Python-y-Selenium-by-aseazul.png" alt="WhatsApp Bot Automate">
+
 Este proyecto consiste en un bot de automatización escrito en Python utilizando la biblioteca Selenium para enviar mensajes predefinidos a contactos en WhatsApp Web.
 
 ## Requisitos
